@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=YTLite
+GenericName=Reproductor de YouTube liviano
+Comment=Ver videos y playlists de YouTube sin navegador (mpv + yt-dlp)
+Exec=@HOME@/.local/bin/ytlite %U
+Icon=video-display
+Terminal=false
+Categories=AudioVideo;Video;Player;
+StartupWMClass=tk
