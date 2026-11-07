@@ -146,7 +146,3 @@ yt-dlp  → YouTube streams
 - mpv runs as a separate process: if it dies, the UI stays up and can relaunch it.
 - The UI only reads cached player properties, so it stays responsive even on a slow network.
 - Shortcuts pressed while the video window has focus go through mpv (`script-message`) and back to the app, so they work whether focus is on the video or elsewhere.
-
-## License
-
-Choose a license before publishing (for example MIT or GPLv3) and add a `LICENSE` file.
