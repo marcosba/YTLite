@@ -144,7 +144,3 @@ yt-dlp  → streams de YouTube
 - mpv corre como proceso aparte: si cae, la interfaz sigue y puede relanzarlo.
 - La interfaz solo lee propiedades cacheadas del reproductor, así que responde aunque la red esté lenta.
 - Los atajos con la ventana de video enfocada pasan por mpv (`script-message`) y vuelven a la app, por eso funcionan igual con el foco en el video o fuera de él.
-
-## Licencia
-
-Elegí una licencia antes de publicar (por ejemplo MIT o GPLv3) y agregá el archivo `LICENSE`.
